@@ -13,3 +13,8 @@
 * 制作坦克大战Demo
 * [第三次考核文档](https://github.com/immortaltiara/2021-Autumn/blob/main/doc/%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%80%83%E6%A0%B8%E6%96%87%E6%A1%A3.md)
 * 时间：12.6——1.2
+
+## 第四次考核
+* 游戏功能模块和策划实践练习
+* [第四次考核文档](https://github.com/immortaltiara/2021-Autumn/blob/main/doc/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E8%80%83%E6%A0%B8%E6%96%87%E6%A1%A3.md)
+* 时间：3.21——4.3
