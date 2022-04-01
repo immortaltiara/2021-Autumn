@@ -18,3 +18,8 @@
 * 游戏功能模块和策划实践练习
 * [第四次考核文档](https://github.com/immortaltiara/2021-Autumn/blob/main/doc/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E8%80%83%E6%A0%B8%E6%96%87%E6%A1%A3.md)
 * 时间：3.21——4.3
+
+## 最终考核
+* 参加吉比特未来游戏制作人大赛初赛并提交作品
+* [最终考核文档](https://github.com/immortaltiara/2021-Autumn/blob/main/doc/%E6%9C%80%E7%BB%88%E8%80%83%E6%A0%B8%E6%96%87%E6%A1%A3.md)
+* 时间：4.4——5.30
